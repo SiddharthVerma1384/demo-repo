@@ -1,2 +1,2 @@
 # demo-repo
-This is just a demo repository to learn, (For myself)
+This is just a demo repository to learn, (For myself).
